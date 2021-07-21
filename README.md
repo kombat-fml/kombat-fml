@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on freelance
+- 🌱 I’m currently learning JavaScript, React
+- 👨 I’m looking for a job on the Web
+- 💬 I help beginners in web
+
 <!--
 **kombat-fml/kombat-fml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
